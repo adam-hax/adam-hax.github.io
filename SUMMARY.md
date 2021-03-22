@@ -1,4 +1,4 @@
-## Cotnents
+## Contents
 
 * [Cheat Sheets](cheatsheets/README.md)
     * [CRTP](cheatsheets/crtp.md)
